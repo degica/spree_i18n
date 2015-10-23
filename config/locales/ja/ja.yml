@@ -18,6 +18,8 @@ ja:
   active: "有効"
   activerecord:
     attributes:
+      line_items:
+        quantity: "数量"
       spree/address:
         address1: "住所1"
         address2: "住所2"
@@ -1186,6 +1188,7 @@ ja:
     is_too_large: "要求された量は在庫を超えています。"
     must_be_int: "整数であることが必要です"
     must_be_non_negative: "0以上の数字が必要です"
+    exceeds_available_stock: "は、在庫以上の値が指定されています。在庫数以下の数を指定してください。"
   value: "値"
   variant: "種類"
   variants: "種類"
