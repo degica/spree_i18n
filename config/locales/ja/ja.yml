@@ -683,6 +683,8 @@ ja:
   order_not_in_system: "その注文番号はこのサイトで有効ではありません。"
   order_number: "注文"
   order_operation_authorize: "許可する"
+  order_populator:
+    out_of_stock: "『在庫切れ』（%{item} は現在、完売しております）"
   order_processed_but_following_items_are_out_of_stock: "注文が完了しました。しかし、以下のアイテムが在庫切れです。"
   order_processed_successfully: "注文が完了しました。"
   order_state: # keys correspond to Checkout state names:
