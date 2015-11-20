@@ -130,6 +130,7 @@ ja:
         email: "Eメール"
         password: "パスワード"
         password_confirmation: "パスワード（確認）"
+        unlock_token: "凍結解除コード"
       spree/variant:
         cost_price: "原価"
         depth: "奥行き"
