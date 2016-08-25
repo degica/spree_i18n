@@ -1035,6 +1035,7 @@ ja:
   shipment_state: "配送状況"
   shipment_states:
     backorder: "入荷待ち"
+    canceled: "キャンセル"
     partial: "一部配送"
     pending: "配送準備中"
     ready: "配送可能"
